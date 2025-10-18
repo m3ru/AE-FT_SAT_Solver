@@ -1,0 +1,4 @@
+solver_base/kissat/build/
+solver_base/kissat/.cache/
+*.o
+*.exe

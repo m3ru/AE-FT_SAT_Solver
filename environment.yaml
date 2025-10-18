@@ -1,0 +1,15 @@
+name: ae_ft
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - scikit-learn
+  - tensorflow
+  - pip:
+      - keras-tuner
+      - wandb
+      - seaborn
+      - plotly
